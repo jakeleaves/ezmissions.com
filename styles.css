@@ -573,7 +573,7 @@ ul {
     height: 100%;
     min-height: 400px;
     border-radius: var(--radius-lg);
-    background: url('https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?auto=format&fit=crop&q=80&w=1200') center/cover no-repeat;
+    background: url('./charger.png') center/cover no-repeat;
     box-shadow: var(--shadow-lg);
 }
 
